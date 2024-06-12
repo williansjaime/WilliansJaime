@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 Hoje trabalho com IoT.
-- 🌱 Estudando transferência de dados via rádio frequência com LoRa.
+- 🔭 Hoje trabalho com IoT e Visão Computacional.
+- 🌱 Estudando transferência de imagens via rádio frequência com LoRa e processamento de imagens com Visão Computacional.
 <!--  - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
